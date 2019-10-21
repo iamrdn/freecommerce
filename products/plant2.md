@@ -1,23 +1,23 @@
 ---
 id: '2'
-title: Integer porta
+title: Leaf porta
 description: Suspendisse efficitur eget erat sit amet efficitur.
-price: '99.00'
+price: '100.00'
 images:
   default:
-    thumbnail:
-      optimized: /images/plant2.webp
-      fallback: /images/plant2.jpg
     original:
-      optimized: /images/plant2-lg.webp
       fallback: /images/plant2-lg.jpg
-  featured:
+      optimized: /images/plant2-lg.webp
     thumbnail:
-      optimized: /images/plant2-featured.webp
-      fallback: /images/plant2-featured.jpg
+      fallback: /images/plant2.jpg
+      optimized: /images/plant2.webp
+  featured:
     original:
-      optimized: /images/plant2-featured-lg.webp
       fallback: /images/plant2-featured-lg.jpg
+      optimized: /images/plant2-featured-lg.webp
+    thumbnail:
+      fallback: /images/plant2-featured.jpg
+      optimized: /images/plant2-featured.webp
 category: cactuses
 featured: true
 section: Store
